@@ -18,3 +18,8 @@ conda env create -n llama3_inf -f inference_environment.yml
 for model training, please:
 conda env create -n legal_delta -f training_environment.yml
 ```
+## Contact
+If you have questions, suggestions, and bug reports, please email:
+```
+20216401@stu.neu.edu.cn 
+```
